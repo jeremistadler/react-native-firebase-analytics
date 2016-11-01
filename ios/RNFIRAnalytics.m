@@ -1,5 +1,5 @@
 #import "RNFIRAnalytics.h"
-@import FirebaseAnalytics;
+#import <FirebaseAnalytics/FirebaseAnalytics.h>
 
 #import "RCTBridge.h"
 #import "RCTConvert.h"
