@@ -27,9 +27,12 @@ apply plugin: 'com.google.gms.google-services' // <- Add this line
 
 ### IOS Configuration
 
-install pod 'Firebase/Core'
+- Add this to your podfile: ```pod 'Firebase/Core'```
+- Run this command in the ios directory: ```pod install```
+- Restart any running packagers
 
-in AppDelegate.m add
+
+- In AppDelegate.m add
 ```diff
 ...
 
