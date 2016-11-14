@@ -1,10 +1,10 @@
 {
   "name": "react-native-firebase-analytics",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "React Native component for Firebase Analytics for IOS and Android",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evollu/react-native-firebase-analytics.git"
+    "url": "git+https://github.com/jeremistadler/react-native-firebase-analytics.git"
   },
   "keywords": [
     "React-Native",
@@ -16,7 +16,7 @@
   "author": "Libin Lu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evollu/react-native-firebase-analytics/issues"
+    "url": "https://github.com/jeremistadler/react-native-firebase-analytics/issues"
   },
-  "homepage": "https://github.com/evollu/react-native-firebase-analytics"
+  "homepage": "https://github.com/jeremistadler/react-native-firebase-analytics"
 }
