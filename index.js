@@ -20,5 +20,9 @@ module.exports = {
 
    setEnabled: function(enabled) {
        FIRAnalytics.setEnabled(enabled);
+   },
+   
+   setScreenName: function(name) {
+       FIRAnalytics.setScreenName(name);
    }
 };
